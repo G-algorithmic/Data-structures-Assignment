@@ -1,6 +1,6 @@
 # Data-structures-Assignment
 1. RPN calculator 🧮
-2. Binary search tree 🌲
+2. Binary search 🌲 
 3.Group Members
 4. Godwill Omondi - SCT222-0163/2020
 5. Samuel Irungu  - SCT222-0340/2022
